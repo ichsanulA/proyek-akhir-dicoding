@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "first_name": "Scaly-breasted lorikeet",
+    "last_name": "Trichoglossus chlorolepidotus",
+    "image": "img/Trichoglossus chlorolepidotus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Scaly-breasted_lorikeet"
+  },
+  {
+    "id": 2,
+    "first_name": "Eurasian beaver",
+    "last_name": "Castor fiber",
+    "image": "img/Castor fiber.jpg",
+    "link": "https://en.wikipedia.org/wiki/Eurasian_beaver"
+  },
+  {
+    "id": 3,
+    "first_name": "Impala",
+    "last_name": "Aepyceros melampus",
+    "image": "img/Aepyceros mylampus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Impala"
+  },
+  {
+    "id": 4,
+    "first_name": "White-nosed coati",
+    "last_name": "Nasua narica",
+    "image": "img/Nasua narica.jpg",
+    "link": "https://en.wikipedia.org/wiki/White-nosed_coati"
+  },
+  {
+    "id": 5,
+    "first_name": "Blacksmith lapwing",
+    "last_name": "Vanellus armatus",
+    "image": "img/Vanellus armatus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Blacksmith_lapwing"
+  },
+  {
+    "id": 6,
+    "first_name": "Common myna",
+    "last_name": "Acridotheres tristis",
+    "image": "img/Acridotheres tristis.jpg",
+    "link": "https://en.wikipedia.org/wiki/Common_myna"
+  },
+  {
+    "id": 7,
+    "first_name": "African Buffalo",
+    "last_name": "Syncerus caffer",
+    "image": "img/Snycerus caffer.jpg",
+    "link": "https://en.wikipedia.org/wiki/African_buffalo"
+  },
+  {
+    "id": 8,
+    "first_name": "Southern hairy-nosed wombat",
+    "last_name": "Lasiorhinus latifrons",
+    "image": "img/Lasiorhinus latifrons.jpg",
+    "link": "https://en.wikipedia.org/wiki/Southern_hairy-nosed_wombat"
+  },
+  {
+    "id": 17,
+    "first_name": "Tayra",
+    "last_name": "Eira barbara",
+    "image": "img/Eira barbata.jpg",
+    "link": "https://en.wikipedia.org/wiki/Tayra"
+  },
+  {
+    "id": 9,
+    "first_name": "Arabian Camel",
+    "last_name": "Camelus dromedarius",
+    "image": "img/Camelus dromedarius.jpg",
+    "link": "https://en.wikipedia.org/wiki/Dromedary"
+  },
+  {
+    "id": 10,
+    "first_name": "Blue crane",
+    "last_name": "Anthropoides paradisea",
+    "image": "img/Anthropoides paradisea.jpg",
+    "link": "https://en.wikipedia.org/wiki/Blue_crane"
+  }
+]
